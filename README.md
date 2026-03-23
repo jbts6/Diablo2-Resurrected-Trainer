@@ -4,8 +4,6 @@
 
 <img width="665" height="592" alt="image" src="https://github.com/user-attachments/assets/1171a4ac-846f-4be2-9cb6-aba06aef92d5" />
 
- 
-*(replace with actual screenshot link or upload screenshot.png to repo)*
 
 ## Features – Diablo 2 Resurrected Trainer 2026
 
