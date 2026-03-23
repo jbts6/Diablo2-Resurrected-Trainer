@@ -2,8 +2,8 @@
 
 **Diablo II: Resurrected Trainer** with hotkeys (F1–F11) — the easiest way to set infinite Vitality, Dexterity, Energy, Strength, Gold, Speed, Stat Points, Skill Points + Super Health / Stamina / Mana in single-player or offline mode.
 
-![Diablo 2 Resurrected Trainer Screenshot](<img width="662" height="596" alt="image" src="https://github.com/user-attachments/assets/20c28e22-e20f-4b0a-8565-c84d88c67c79" />
-) 
+<img width="665" height="592" alt="image" src="https://github.com/user-attachments/assets/1171a4ac-846f-4be2-9cb6-aba06aef92d5" />
+
  
 *(replace with actual screenshot link or upload screenshot.png to repo)*
 
@@ -25,7 +25,7 @@ All changes apply instantly. Works great for testing builds, farming gear offlin
 
 ## Download Latest Version
 
-🔥 **[Releases → Download Diablo2ResurrectedTrainer.zip](https://github.com/YOUR_USERNAME/Diablo2Resurrected-Trainer/releases)** 🔥
+🔥 **[Releases → Download Diablo2ResurrectedTrainer.zip](https://github.com/jbts6/Diablo2-Resurrected-Trainer/releases/download/D2R-Trainer-v1.0/D2R-Trainer-v1.0.zip)** 🔥
 
 Current version: v1.0 (March 2026)  
 Supported game versions: Diablo II Resurrected 2.6–2.7+ (check patch notes)
