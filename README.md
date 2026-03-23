@@ -47,6 +47,31 @@ Supported game versions: Diablo II Resurrected 2.6–2.7+ (check patch notes)
 - Trainer is **external memory editor** — detected by some antiviruses (add to exceptions)  
 - No viruses, open-source community project (feel free to compile yourself)
 
+## Antivirus & False Positives – Very Important!
+
+Most antivirus programs (Windows Defender, Avast, Kaspersky, Norton, Bitdefender, etc.) **flag this trainer as a virus/trojan**.  
+This is a **false positive** — completely normal for memory editors, trainers and cheat tools because they read/write game memory (the same behavior many real malware uses).
+
+### Safe Usage Recommendations
+- **Add the trainer to exclusions** before running it:
+  - Windows Defender: Settings → Update & Security → Windows Security → Virus & threat protection → Manage settings → Exclusions → Add or remove exclusions → Add an exclusion → File → select Diablo2ResurrectedTrainer.exe
+  - Avast/AVG: Settings → General → Exclusions
+  - Kaspersky: Settings → Additional → Threats and Exclusions → Specify trusted applications
+- **Always run the trainer as Administrator**
+- **Do NOT completely disable your antivirus** — only add an exception for this file/folder
+- Optionally upload the .exe to VirusTotal to see detections (expect 5–20/70 false positives — typical for trainers)
+- This trainer contains **no malware** — it's a community open-source style project (you can compile it yourself if sources are added later)
+
+## Safety & Best Practices
+
+- 🟢 **Single-player / offline only** — never use on Battle.net (online characters / ladder / non-ladder)  
+→ Almost guaranteed permanent ban
+- **Make a backup of your save files** before using the trainer:
+- Location: `%USERPROFILE%\Saved Games\Diablo II Resurrected\`
+- Copy the entire folder somewhere safe
+- Avoid setting absurdly high values (e.g. 2 billion gold) — can sometimes cause crashes or save corruption
+- If the game crashes after using the trainer → just restart D2R without the trainer (normal behavior)
+
 ## Keywords people search for
 
 diablo 2 resurrected trainer, d2r trainer, diablo 2 resurrected cheats, d2r god mode, diablo 2 resurrected infinite gold, d2r super health, diablo 2 resurrected stat editor, d2r skill points cheat, diablo 2 resurrected speed hack, d2r trainer 2025, d2r trainer 2026, diablo 2 resurrected f1 f2 f3 trainer
